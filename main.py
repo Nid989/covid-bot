@@ -48,6 +48,7 @@ def main(chat_id, txt):
             print(gen_dict)
             print("if block")
             # a = gen_dict["Resources"]
+            #nidhir
             # stri = ''
             # for i in a:
             #     stri += i + ',' 
